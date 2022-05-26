@@ -2,7 +2,6 @@ import time
 import socket
 import sys
 import os
-
 from click import command
 
 s = socket.socket()
